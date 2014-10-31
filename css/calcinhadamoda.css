@@ -1,0 +1,200 @@
+/*
+Estilos CSS
+*/
+/* 
+    Created on : 30/10/2014, 17:01:29
+    Author     : gabriel
+*/
+
+body {
+    font: Arial;
+    background: url("../images/header_img.jpg") no-repeat top left fixed;
+    background-size: 100%
+}
+div#top {
+    /*border:solid 2px #000000;*/
+    /*background: url("../images/");*/
+    text-align: center;
+    padding-bottom: 25px;
+    width: 100%;
+    float: left;
+}
+div#top h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 120px;
+    margin: 50px 0 0;
+}
+div#top p {
+    color: #FFFFFF;
+    font-size: 12px;
+}
+div#top img {
+    margin: 475px 0 40px;
+}
+div#menu {
+    /*border:solid 1px #000000;*/
+    border-bottom: solid 1px #efeded;
+    padding: 30px 0;
+}
+div#menu ul {
+    /*border:solid 1px #000000;*/
+    margin: 0 auto;
+    width: 650px;
+    height: 28px;
+}
+div#menu ul li {
+    /*border:solid 1px #000000;*/
+    border-left: solid 1px #efeded;
+    text-align: center;
+    width: 125px;
+    float: left;
+}
+div#menu ul li:first-child {
+    border-left: none;
+}
+div#menu ul li a {
+    color:#333333;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+div#menu ul li a:hover {
+    border-radius: 1em;
+    -moz-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    color: #FFFFFF;
+    background: #f7556c;
+    padding: 10px;
+    margin-top: -10px;
+}
+div#content_1 {
+    /*border:solid 1px #000000;*/
+    background: #FFFFFF;    
+    width: 100%; /*Apenas largura, SEM altura fixa*/
+    padding-bottom: 60px;
+    float: left;
+}
+div#content_1 a {
+    color:#f7556c;
+    text-decoration: underline;
+}
+div#content_1 a:hover {
+    color:#000000;
+}
+/*index*/
+#info {
+    /*border:solid 1px #000000;*/
+    text-align: center;
+}
+#info h1 {
+    font-size: 60px;
+    font-weight: normal;
+}
+#info img.index_img {
+    border-radius: 6em;
+    -moz-border-radius: 6em;
+    -webkit-border-radius: 6em;
+    margin: 0 10px;
+}
+#info p {
+    margin: 25px 100px;
+}
+/*contato*/
+#contato {
+    float: left;
+}
+#contato h2 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: 75px 0 40px 350px;
+}
+#contato iframe {
+    border: 0;
+    height: 326px;
+    width: 350px;
+    margin: 0 5px 0 250px;
+    float: left;
+}
+#contato form {
+    /*border:solid 1px #000;*/
+    width: 400px;
+    float: left;
+}
+#contato form input[type=text],
+#contato form textArea {
+    border:solid 1px #CCCCCC;
+    width: 400px;
+    margin-bottom: 6px;
+    padding: 7px;
+}
+#contato form input[type=text]:hover,
+#contato form textArea:hover,
+#contato form input[type=text]:focus, 
+#contato form textArea:focus {
+    border:solid 1px #666666;
+}
+#contato form textArea {
+    height: 200px;
+}
+#contato input[type=submit] {
+    border:0;
+    color:#FFFFFF;    
+    background: #f7556c;
+    padding: 15px 25px;
+    float: right;
+}
+#contato input[type=submit]:hover {
+    background: #000000;
+}
+#contato blockquote {
+    /*border: solid 1px #000;*/
+    clear: both;
+    margin-left: 250px;
+    float: left;
+}
+
+/**/
+div#content_2 {
+    /*border:solid 1px #000000;*/
+    background: #FFFFFF;    
+    width: 100%;
+    height: 370px;
+    margin-top: 450px;
+    padding-top: 20px;
+    text-align: center;
+    float: left;
+}
+div#content_2 h2 {
+    font-weight: normal;
+    font-size: 35px;
+    margin: 20px 0;
+}
+div#content_2 img {
+    margin: 20px 10px;
+}
+img#upArrow {
+    cursor: pointer;
+    max-width: 50px;
+    max-height: 50px;
+    margin: 50px 25px;
+    float: right;
+}
+div#rodape {
+    position: relative;
+    /*border:solid 1px #000000;*/
+    background: #f7556c;  
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+div#rodape p {
+    /*border:solid 1px #000000;*/
+    /*border-top:solid 1px #efeded;*/
+    position: absolute;
+    bottom: 0;    
+    color:#FFFFFF;
+    padding: 25px 50px;
+    width: 100%;
+    font-size: 12px;    
+}
