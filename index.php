@@ -14,11 +14,7 @@
         
     </head>
     <body>
-        <div id="top">            
-            <h1>Calcinha da Moda</h1>
-            <p>PARA A MULHER QUE SE VALORIZA</p>
-            <img src="images/arrow.png" alt=""/>
-        </div>
+        <?php include "./includes/topo.html" ?>
         
         <div id="content_1">
             <?php include "./includes/menu.html" ?>

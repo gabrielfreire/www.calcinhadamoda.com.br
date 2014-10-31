@@ -154,6 +154,38 @@ div#content_1 a:hover {
     float: left;
 }
 
+
+/**/
+#galeria h2 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: 75px 0 40px 350px;
+}
+#galeria div {
+    /*border:solid 1px #000;*/
+    width: 1190px;
+    margin: 0 auto;
+}
+#galeria div img {
+    margin: 0;
+}
+
+/**/
+#sobre h2 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: 75px 0 0 350px;
+}
+#sobre h3 {
+    color:#f7556c;
+    margin:10px 0 40px 350px;
+    font-size: 17px;
+    font-weight: normal;    
+}
+#sobre p {
+    margin: 0 250px;
+}
+
 /**/
 div#content_2 {
     /*border:solid 1px #000000;*/
