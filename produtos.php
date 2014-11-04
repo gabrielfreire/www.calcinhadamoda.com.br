@@ -24,9 +24,16 @@
                 <h2>Conheça nossos produtos</h2>
                 
                 <!-- Load XML com ajax -->
-                <ul>
-                                       
-                </ul>
+                <!--<ul>-->
+<!--                    <li>
+                        <a href='#'>
+                            <img src='images/produtos/prod1.jpg' alt=''/>
+                            <label>Calcinha bla bla</label>
+                            <p>Calcinha moderna e muito top, por apenas:</p>
+                            <span>R$ 19,99</span>
+                        </a>
+                    </li>    -->
+                <!--</ul>-->
                 
                 
             </div>
@@ -43,7 +50,7 @@
             });
             
             
-            $(window).on("load", function () {
+//            $(window).on("load", function () {
 
                 $.ajax({
                     type: "GET",
@@ -58,19 +65,21 @@
                             var descricao = $(this).find("descricao").text();
                             var preco = $(this).find("preco").text();
 
-                            var ul = $("#produtos > ul");
-
-                            ul.appendTo("<li>");
-                                ul.appendTo("<a href='#'>");
-                                    ul.appendTo("<img src='"+imagem+"' alt=''/>");
-                                    ul.appendTo("<label>"+nome+"</label>");
-                                    ul.appendTo("<p>"+descricao+"</p>");
-                                    ul.appendTo("<span>"+preco+"</span>");
-                                ul.appendTo("</a>");
-                            ul.appendTo("</li>");
-
-    //                            console.log(imagem+"\n");
-                            //$("<li></li>").html(sTitulo + ", " + sAutor + ", " + sGenero).appendTo("#contentArea ul");
+                            var div = $("#produtos");
+                                
+                            div.append(
+                                "<ul>"+
+                                    "<li>"+
+                                        "<a href='#'>"+
+                                            "<img src='"+imagem+"' alt=''/>"+
+                                            "<label>"+nome+"</label>"+
+                                            "<p>"+descricao+"</p>"+
+                                            "<span>"+preco+"</span>"+
+                                        "</a>"+
+                                    "</li>"+
+                                "</ul>"
+                                );
+                            
                         });
                     },
                     error: function () {
@@ -78,7 +87,7 @@
                     }
                 });
 
-            });
+//            });
             
         </script>
     </body>
