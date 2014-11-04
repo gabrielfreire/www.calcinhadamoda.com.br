@@ -14,7 +14,14 @@
         
     </head>
     <body>
-        <?php include "./includes/topo.html" ?>
+        <?php // include "./includes/topo.html" ?>
+        <!-- Topo do site -->
+        <div id="top">            
+            <h1>Calcinha da Moda</h1>
+            <p>PARA A MULHER QUE SE VALORIZA</p>
+            <img src="images/arrow.png" alt="" />
+        </div>
+        
         
         <div id="content_1">
             <?php include "./includes/menu.html" ?>
@@ -26,6 +33,7 @@
                 <img src="images/index_img2.jpg" alt="" class="index_img"/>
                 <img src="images/index_img3.jpg" alt="" class="index_img"/>
 
+                <br/>             
                 <p>
                     Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja. 
                 </p>
@@ -35,6 +43,7 @@
                     Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, 
                     Venha conhecer a nossa loja, Venha conhecer a nossa loja.
                 </p>
+             
             </div>
         </div>
         

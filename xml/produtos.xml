@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<produtos>
+    
+    <item>
+        <imagem>images/produtos/prod1.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <imagem>images/produtos/prod2.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <imagem>images/produtos/prod3.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <imagem>images/produtos/prod4.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <imagem>images/produtos/prod5.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <imagem>images/produtos/prod6.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    
+</produtos>

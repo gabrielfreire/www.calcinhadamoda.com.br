@@ -13,7 +13,6 @@ body {
 }
 div#top {
     /*border:solid 2px #000000;*/
-    /*background: url("../images/");*/
     text-align: center;
     padding-bottom: 25px;
     width: 100%;
@@ -26,7 +25,9 @@ div#top h1 {
     margin: 50px 0 0;
 }
 div#top p {
+    /*border:solid 1px #000000;*/
     color: #FFFFFF;
+    width: 100%;
     font-size: 12px;
 }
 div#top img {
@@ -68,6 +69,9 @@ div#menu ul li a:hover {
     padding: 10px;
     margin-top: -10px;
 }
+
+
+/**/
 div#content_1 {
     /*border:solid 1px #000000;*/
     background: #FFFFFF;    
@@ -86,6 +90,7 @@ div#content_1 a:hover {
 #info {
     /*border:solid 1px #000000;*/
     text-align: center;
+    float: left;
 }
 #info h1 {
     font-size: 60px;
@@ -98,8 +103,13 @@ div#content_1 a:hover {
     margin: 0 10px;
 }
 #info p {
-    margin: 25px 100px;
+    /*border:solid 1px #000;*/
+    width: 100%;
+    padding: 0 10%;
+    margin: 25px 0;
 }
+
+
 /*contato*/
 #contato {
     float: left;
@@ -183,7 +193,54 @@ div#content_1 a:hover {
     font-weight: normal;    
 }
 #sobre p {
-    margin: 0 250px;
+    /*border:solid 1px #000;*/
+    width: 800px;
+    margin: 10px 250px;
+}
+
+/**/
+#produtos h2 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: 75px 0 40px 350px;
+}
+#produtos ul {
+    /*border: solid 1px #000;*/
+    margin: 0 auto;
+    width: 900px;
+}
+#produtos ul li {
+    border: solid 1px #efeded;
+    min-height: 400px;
+    width: 254px;
+    margin: 10px;
+    padding: 2px;
+    float: left;
+}
+#produtos ul li:hover {
+    border: solid 1px #f7556c;
+}
+#produtos img {
+    max-width: 250px;
+}
+#produtos a {
+    text-decoration: none !important;
+}
+#produtos label, p, span {
+    /*border:solid 1px #000;*/
+    width: 240px;
+    text-align: center;
+    float: left;
+}
+#produtos label {
+    font-weight: bold;
+    padding: 10px;
+}
+#produtos p {
+    
+}
+#produtos span {
+    font-size: 35px;
 }
 
 /**/
