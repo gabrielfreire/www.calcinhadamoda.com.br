@@ -9,36 +9,42 @@ and open the template in the editor.
 <produtos>
     
     <item>
+        <id>1</id>
         <imagem>images/produtos/prod1.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
+        <id>2</id>
         <imagem>images/produtos/prod2.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
+        <id>3</id>
         <imagem>images/produtos/prod3.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
+        <id>4</id>
         <imagem>images/produtos/prod4.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
+        <id>5</id>
         <imagem>images/produtos/prod5.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
+        <id>6</id>
         <imagem>images/produtos/prod6.jpg</imagem>
         <nome>Calcinha bla bla</nome>
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
