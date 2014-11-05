@@ -25,21 +25,15 @@
                 <h3>Conheça nossa história</h3>
                 
                 <p>
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal.
+                    Me chamo Joséfa, minha loja começou quando vi minha amiga reclamando que nenhuma calcinha
+                    estava boa na opinião de seu marido, pois o mesmo queria que ela nunca usasse calcinha.
+                    Então pensei, vou inovar e criar linhas exclusivas para agradar os homens, linhas que sejam
+                    confortáveis o suficiente a ponto de não coçar a pombinha ou causar desconforto na caverna.
                 </p>
                 <br/>
                 <p>
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal.
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal,
-                    Uma loja legal, Uma loja legal, Uma loja legal, Uma loja legal.
+                    Começamos a vender pela internet, hoje somos mais de 2 milhões de pombinhas felizes
+                    usando CALCINHA DA MODA. Use e abuse, mulher inteligente é mulher que se cuida.
                 </p>
                 
             </div>

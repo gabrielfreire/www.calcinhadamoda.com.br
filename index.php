@@ -35,13 +35,19 @@
 
                 <br/>             
                 <p>
-                    Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja. 
+                    A CALCINHA DA MODA invova em seus produtos, venha conhecer a nossa loja feita
+                    especialmente para você.
+                    Temos calcinhas fio-dental para você surpreender seu marido e deixá-lo feliz
+                    com seu novo estilo, causar aquele efeito UAU não será mais impossível, mesmo sendo feia.
                 </p>
 
                 <p>
-                    Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, 
-                    Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, Venha conhecer a nossa loja, 
-                    Venha conhecer a nossa loja, Venha conhecer a nossa loja.
+                    Já pensou em se destacar quando está no vestiário feminino? Inveja toda mulher tem, 
+                    mas com nossos produtos a inveja vai doer mais, tenha certeza. Pensando nisso,
+                    ganhe um kit de defesa pessoal, servirá para amigas invejosas e tarados de plantão.
+                    Conheça também nossa linha de calcinha para fantasias, torne-se uma mulher maravilha em 
+                    instantes, mulher pêra ou mulher abacate; mas se não comprar nenhum produto, será
+                    apenas uma mulher tonta.
                 </p>
              
             </div>

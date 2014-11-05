@@ -9,15 +9,17 @@ Produtos
     <item>
         <id>1</id>
         <imagem>images/produtos/prod1.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <nome>Calcinha fio dental</nome>
+        <descricao>Sua deusa interior irá agradecer quando notá-la vestida com este fio-dental, 
+            por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
         <id>2</id>
         <imagem>images/produtos/prod2.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <nome>Calcinha colada</nome>
+        <descricao>É ideal para quem está com uma barriguinha saliente, para quem tem culote e quadril grande, 
+            por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
@@ -157,14 +159,14 @@ Produtos
         <id>22</id>
         <imagem>images/produtos/prod22.jpg</imagem>
         <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <descricao>Cobre todo o bumbum, deixando só a parte de baixo de fora, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     <item>
         <id>23</id>
         <imagem>images/produtos/prod23.jpg</imagem>
         <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <descricao>Um modelo com a lateral bem larga e a cintura alta, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     
