@@ -23,7 +23,7 @@
             
             <div id="produtos">
                 <!-- Modal - display:none -->
-                <?php include "./produto-det.html" ?>
+                <?php include "./includes/produto-det.html" ?>
                 
                 <h2>Conheça nossos produtos</h2>
                 
@@ -117,9 +117,10 @@
                         
                         var nomeProduto = $(this).children("label").text();
                         var htmlProduto = $(this).html();
+                        var linhaClicada = $(this).parent("li");
                         
                         $("html, body").animate({
-                            scrollTop: $("#menu").offset().top
+                            scrollTop: linhaClicada.offset().top
                             
                         }, "slow", function (){                                
                             $(".modal-title", "#modal").html(nomeProduto);

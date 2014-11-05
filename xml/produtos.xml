@@ -48,5 +48,33 @@ Produtos
         <descricao>Calcinha moderna e muito top, por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
+    <item>
+        <id>7</id>
+        <imagem>images/produtos/prod7.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <id>8</id>
+        <imagem>images/produtos/prod8.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <id>9</id>
+        <imagem>images/produtos/prod9.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
+    <item>
+        <id>10</id>
+        <imagem>images/produtos/prod10.jpg</imagem>
+        <nome>Calcinha bla bla</nome>
+        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
+        <preco>R$ 19,99</preco>
+    </item>
     
 </produtos>
