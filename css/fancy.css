@@ -1,0 +1,126 @@
+/*@import url("reset.css");*/
+
+:focus {
+    -moz-outline-style:none;
+    outline-style:none
+}
+
+.box-detail
+{    
+    float:left;
+    margin-right:15px;
+    margin-bottom: 15px;
+    padding:0px;
+    width:180px;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.3);	
+    border:1px solid #CCC;
+    -moz-box-shadow: 0 0 2px #888;
+    -webkit-box-shadow: 0 0 2px #888;
+    box-shadow: 0 0 2px #888;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color='#969696', Direction=135, Strength=3);	
+    zoom: 1;
+    background-color: #fff;
+}
+
+
+.box-detail a, .box-detail a:hover 
+{
+    text-decoration:none;
+}
+.box-inner
+{
+    border:0px solid blue;
+    width:180px;
+    height:120px;
+    position:relative;
+    text-align: center;
+    background-color: #fff;		
+}
+.box-inner img
+{
+    border:0px solid blue;
+    max-width:170px;
+    max-height:120px;    
+    padding:5px;
+}
+
+.box-inner-fx
+{    
+    width:170px;
+    height:130px;
+    top:5px;
+    left:5px;
+    position:absolute;
+    background-color: rgba(0,0,0,0.3);
+    background-image: url(../img/gallery/bg-dark.png);
+    display:none;
+    z-index:1000;
+}
+
+.box-inner-fx h2
+{
+    margin:0px;
+    padding:0px;
+    font-family: 'Electrolize', sans-serif;
+    font-style: normal;
+    font-size:10px;
+    text-align:center;
+    margin-top: 40px;
+    color:#fff;
+    background-image: url(../img/gallery/bg-dark.png);
+    background-color: rgba(0,0,0,0.3);
+    z-index:1000;
+}
+
+.box-inner-fx span
+{
+    margin:0px;
+    padding:0px;
+    font-family: 'Electrolize', sans-serif;
+    font-size: 10px;
+    text-decoration:none;
+    text-align:right;
+    display:block;
+    width:45px;
+    margin-top:1px;
+    padding:2px;
+    position:absolute;
+    bottom:0px;
+    right:1px;
+    color:#99CC00;
+    background-image: url(../img/gallery/bg-dark.png);
+    background-color: rgba(0,0,0,0.3);
+    cursor:pointer;
+}
+
+.box-inner-fx a:hover , .box-inner-fx  span:hover
+{
+    color:#fff;
+    cursor:pointer;
+}
+
+.box-bottom
+{
+    border:0px solid green;
+    height:25px;	
+    padding-top:0px;
+    padding-left:5px;
+    background-color: #FFF;
+}
+
+.box-bottom-left
+{
+    border:0px solid red;
+    background: url(../img/gallery/icon-date.png) no-repeat left 4px;
+    padding-left:25px;
+    float:left;
+    text-align:left;
+    line-height:20px;
+    height:20px;	
+    color:#666;
+    font-family: 'Courgette', cursive;
+    font-size: 11px;
+}
+
+
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Galeria de fotos
+-->
+
+
+<fotos>
+    
+    <item>
+        <id>1</id>
+        <imagem>images/galeria/galeria_img1.jpg</imagem>
+        <descricao>Imagem 1</descricao>
+    </item>
+    <item>
+        <id>2</id>
+        <imagem>images/galeria/galeria_img2.jpg</imagem>
+        <descricao>Imagem 2</descricao>
+    </item>
+    <item>
+        <id>3</id>
+        <imagem>images/galeria/galeria_img3.jpg</imagem>
+        <descricao>Imagem 3</descricao>
+    </item>
+    <item>
+        <id>4</id>
+        <imagem>images/galeria/galeria_img4.jpg</imagem>
+        <descricao>Imagem 4</descricao>
+    </item>
+    <item>
+        <id>5</id>
+        <imagem>images/galeria/galeria_img5.jpg</imagem>
+        <descricao>Imagem 5</descricao>
+    </item>
+    <item>
+        <id>6</id>
+        <imagem>images/galeria/galeria_img6.jpg</imagem>
+        <descricao>Imagem 6</descricao>
+    </item>
+    <item>
+        <id>7</id>
+        <imagem>images/galeria/galeria_img7.jpg</imagem>
+        <descricao>Imagem 7</descricao>
+    </item>
+    <item>
+        <id>8</id>
+        <imagem>images/galeria/galeria_img8.jpg</imagem>
+        <descricao>Imagem 8</descricao>
+    </item>
+    <item>
+        <id>9</id>
+        <imagem>images/galeria/galeria_img9.jpg</imagem>
+        <descricao>Imagem 9</descricao>
+    </item>
+    <item>
+        <id>10</id>
+        <imagem>images/galeria/galeria_img10.jpg</imagem>
+        <descricao>Imagem 10</descricao>
+    </item>
+    <item>
+        <id>11</id>
+        <imagem>images/galeria/galeria_img11.jpg</imagem>
+        <descricao>Imagem 11</descricao>
+    </item>
+    <item>
+        <id>12</id>
+        <imagem>images/galeria/galeria_img12.jpg</imagem>
+        <descricao>Imagem 12</descricao>
+    </item>
+
+</fotos>

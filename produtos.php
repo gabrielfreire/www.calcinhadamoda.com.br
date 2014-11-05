@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <link href="css/normalize.css" rel="stylesheet" type="text/css"/>
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>        
         <link href="css/calcinhadamoda.css" rel="stylesheet" type="text/css"/>
         
     </head>
@@ -27,16 +27,9 @@
                 
                 <h2>Conheça nossos produtos</h2>
                 
-                <!-- Load XML com ajax -->
+                
                 <ul>
-<!--                    <li>
-                        <a href='#'>
-                            <img src='images/produtos/prod1.jpg' alt=''/>
-                            <label>Calcinha bla bla</label>
-                            <p>Calcinha moderna e muito top, por apenas:</p>
-                            <span>R$ 19,99</span>
-                        </a>
-                    </li>    -->
+                    <!-- Load XML com ajax -->
                 </ul>
                 
                 
@@ -46,12 +39,9 @@
         
         <?php include "./includes/rodape.html" ?>
         
-        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
         <script type="text/javascript" src="js/bootstrap.js"></script>
         <script type="text/javascript">
-            
-            
-            
             $('#upArrow').on("click", function (e) {
                 e.preventDefault();
                 $('html, body').animate({scrollTop: '0'}, 1000);
@@ -75,7 +65,7 @@
                         dataType: "xml",
                         
                         beforeSend: function( xhr ) {
-
+                            
                         },  
                         success: function (xml) {
                             
@@ -122,7 +112,9 @@
                 },
                 clickProdModal: function (){ 
                    
-                    $("a", "#produtos").on("click", function (){
+                    $("a", "#produtos").on("click", function (e){
+                        e.preventDefault();
+                        
                         var nomeProduto = $(this).children("label").text();
                         var htmlProduto = $(this).html();
                         

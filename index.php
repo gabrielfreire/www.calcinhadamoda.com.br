@@ -62,7 +62,7 @@
         <?php include "./includes/rodape.html" ?>
         
         <!-- Javascript do site -->
-        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
         <script type="text/javascript">
             $('#upArrow').on("click", function (e) {
                 e.preventDefault();

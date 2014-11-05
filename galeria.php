@@ -10,6 +10,8 @@
         
         <link href="css/normalize.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="css/fancy.css" rel="stylesheet" type="text/css" />
+        <link href="js/fancy/jquery.fancybox.css?v=2.1.0" rel="stylesheet" type="text/css" media="screen"/>
         <link href="css/calcinhadamoda.css" rel="stylesheet" type="text/css"/>
         
     </head>
@@ -23,19 +25,12 @@
             <div id="galeria">
                 <h2>Minha galeria</h2>
                 
-                <div>
-                    <img src="./images/galeria/galeria_img1.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img2.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img3.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img4.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img5.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img6.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img7.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img8.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img9.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img10.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img11.jpg" alt="" />
-                    <img src="./images/galeria/galeria_img12.jpg" alt="" />
+                
+                
+                
+                <div class="thumbnails">
+                    
+                    <!-- Load XML com ajax -->
                 </div>            
                 
             </div>
@@ -44,12 +39,70 @@
         
         <?php include "./includes/rodape.html" ?>
         
-        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.js"></script>
+        
+        <!-- Exclusivamente aqui usamos versao 1.8 para rodar o Fancybox -->
+        <script type="text/javascript" src="js/jquery-1.8.min.js"></script> 
+        
+        <script type="text/javascript" src="js/fancy/jquery.fancybox.js?v=2.1.0"></script>	
+        <script type="text/javascript" src="js/fancy/jquery.mousewheel-3.0.6.pack.js"></script>	
         <script type="text/javascript">
             $('#upArrow').on("click", function (e) {
                 e.preventDefault();
                 $('html, body').animate({scrollTop: '0px'}, 1000);
             });
+            
+            /**
+             * Ativar fancybox
+             */
+            window.onload = function() {
+
+                $("a.rel", ".thumbnails").fancybox({
+                    openEffect : 'elastic',
+                    openSpeed  : 150,
+                    closeEffect : 'elastic',
+                    closeSpeed  : 350, 
+                    arrows: true,
+                    helpers : {
+                        title : {
+                            type : 'float'//float, over, outside,inside
+                        }}                
+                    });
+            };
+            
+            
+            
+            var loadGaleria = {
+                
+                init:function (){
+                    
+                    this.loadAll();
+                },
+                
+                loadAll: function (){
+                    
+                    $.get("xml/galeria.xml", function (xml){
+                        
+                        $(xml).find('fotos item').each(function () {
+                            var imagem = $(this).find("imagem").text();
+                            var descricao = $(this).find("descricao").text();
+
+                            var div = $(".thumbnails");
+
+                            div.append(
+                                    "<a class='rel thumbnail' data-fancybox-group='gallery' href='"+imagem+"'>"+
+                                        "<img data-src='holder.js/300x200' src='"+imagem+"' alt='' />"+
+                                    "</a>"
+                                );
+                        });
+                    }, "xml");
+                }
+                
+            };
+            
+            //
+            // CARREGAR GALERIA
+            //
+            loadGaleria.init();            
             
         </script>
     </body>

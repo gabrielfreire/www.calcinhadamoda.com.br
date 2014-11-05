@@ -168,12 +168,19 @@ div#content_1 a:hover {
     margin: 75px 0 40px 350px;
 }
 #galeria div {
-    /*border:solid 1px #000;*/
+/*    border:solid 1px #000;*/
     width: 1190px;
     margin: 0 auto;
 }
-#galeria div img {
+#galeria div a img {
     margin: 0;
+}
+#galeria div a img:hover{
+    opacity: 0.5;
+}
+/*botões de ant e prox*/
+a.fancybox-nav {
+    outline: 0;
 }
 
 /**/
