@@ -228,6 +228,7 @@ a.fancybox-nav {
     max-height: 250px;
 }
 #produtos a {
+    outline: 0;
     text-decoration: none !important;
 }
 #produtos label, 
