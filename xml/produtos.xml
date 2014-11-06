@@ -12,161 +12,161 @@ Produtos
         <nome>Calcinha fio dental</nome>
         <descricao>Sua deusa interior irá agradecer quando notá-la vestida com este fio-dental, 
             por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <preco>R$ 10,99</preco>
     </item>
     <item>
         <id>2</id>
         <imagem>images/produtos/prod2.jpg</imagem>
         <nome>Calcinha colada</nome>
-        <descricao>É ideal para quem está com uma barriguinha saliente, para quem tem culote e quadril grande, 
+        <descricao>É ideal para quem está com uma barriguinha saliente, 
             por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <preco>R$ 25,99</preco>
     </item>
     <item>
         <id>3</id>
         <imagem>images/produtos/prod3.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>CALCINHA FRANZIDA TRIBORD </nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,90</preco>
     </item>
     <item>
         <id>4</id>
         <imagem>images/produtos/prod4.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Biquíni Velours - Un.i </nome>
+        <descricao>Para quem tem culote e quadril grande, por apenas:</descricao>
+        <preco>R$ 26,13</preco>
     </item>
     <item>
         <id>5</id>
         <imagem>images/produtos/prod5.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Cotton Com Rendinha</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 46,55</preco>
     </item>
     <item>
         <id>6</id>
         <imagem>images/produtos/prod6.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Caleçon Faixa Rendada - Dilady</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 27,65</preco>
     </item>
     <item>
         <id>7</id>
         <imagem>images/produtos/prod7.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Dilady Max Zero Barriga Bege</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,90</preco>
     </item>
     <item>
         <id>8</id>
         <imagem>images/produtos/prod8.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Caleçon em Microfibra com Renda Vermelho PT0098 G</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 4,81</preco>
     </item>
     <item>
         <id>9</id>
         <imagem>images/produtos/prod9.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Fio Dental Microfibra </nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 37,05</preco>
     </item>
     <item>
         <id>10</id>
         <imagem>images/produtos/prod10.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Dilady Max Zero Barriga Preta</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,90</preco>
     </item>
     <item>
         <id>11</id>
         <imagem>images/produtos/prod11.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha com Enchimento Bolha no Bumbum</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,99</preco>
     </item>
     <item>
         <id>12</id>
         <imagem>images/produtos/prod12.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>bonprix Calcinha cinza</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 9,90</preco>
     </item>
     <item>
         <id>13</id>
         <imagem>images/produtos/prod13.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha em Microfibra com Renda em V Grazi Preto PT0225 G</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 4,81</preco>
     </item>
     <item>
         <id>14</id>
         <imagem>images/produtos/prod14.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Yoga Cintura Alta e Fio Dental com Renda 3088C</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 75,00</preco>
     </item>
     <item>
         <id>15</id>
         <imagem>images/produtos/prod15.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha regulável CALCINHANORONHA</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,99</preco>
     </item>
     <item>
         <id>16</id>
         <imagem>images/produtos/prod16.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Enchimento Bumbum Modeladora de Glúteos Esbelt (3005)</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 54,80</preco>
     </item>
     <item>
         <id>17</id>
         <imagem>images/produtos/prod17.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Microfibra com Renda Lateral Embutida Bianca Pink PT0201 P</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 4,81</preco>
     </item>
     <item>
         <id>18</id>
         <imagem>images/produtos/prod18.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Lupo Calcinha Redutora Slim</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 36,90</preco>
     </item>
     <item>
         <id>19</id>
         <imagem>images/produtos/prod19.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Renda Vermelha Marcyn</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 39,99</preco>
     </item>
     <item>
         <id>20</id>
         <imagem>images/produtos/prod20.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha fio dental BRANCO MICRO</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 34,99</preco>
     </item>
     <item>
         <id>21</id>
         <imagem>images/produtos/prod21.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Calcinha moderna e muito top, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <nome>Calcinha Plus Size Romantique Pin Up</nome>
+        <descricao>Por apenas:</descricao>
+        <preco>R$ 74,00</preco>
     </item>
     <item>
         <id>22</id>
         <imagem>images/produtos/prod22.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
+        <nome>Kit 2 Calcinhas m Mesclado - Lillo</nome>
         <descricao>Cobre todo o bumbum, deixando só a parte de baixo de fora, por apenas:</descricao>
-        <preco>R$ 19,99</preco>
+        <preco>R$ 45,50</preco>
     </item>
     <item>
         <id>23</id>
         <imagem>images/produtos/prod23.jpg</imagem>
-        <nome>Calcinha bla bla</nome>
-        <descricao>Um modelo com a lateral bem larga e a cintura alta, por apenas:</descricao>
+        <nome>Calcinha sensual sem as laterais</nome>
+        <descricao>Por apenas:</descricao>
         <preco>R$ 19,99</preco>
     </item>
     
